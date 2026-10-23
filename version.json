@@ -1,10 +1,13 @@
 {
-  "version": "3.1.8",
-  "release_date": "2026-10-23",
-  "download_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.1.8/Trabekprey_SRT_v3.1.8_Setup.exe",
-  "sha256": "2e087b896bfecb456b849fea2014c170ac5f7354e1969e85db441ef3102325c6",
-  "file_size": 1861325461,
-  "title": "Trabekprey SRT v3.1.8",
-  "changelog": "- មុខងារ Auto Update ស្វ័យប្រវត្តិ (ចុច Update ពីលើ Bar ផ្ទាល់)\n- បញ្ចូល Model Separate សម្លេង (Demucs AI), VAD, និង EasyOCR\n- បន្ថែមប៊ូតុងទាញយក Model Transcript/Translate (Whisper Large-v3 Turbo) នៅក្នុង Settings សម្រាប់អ្នកចង់ប្រើ Offline Local\n- ទំហំ Installer តូចល្មម (1.72 GB) ក្រោម 2GB ងាយស្រួលទាញយក\n- សម្លេង Clone ដើម ៨ ជាប់ក្នុង Tools ស្រាប់\n- ប្រព័ន្ធ License កម្រិតខ្ពស់ជាមួយ Gmail Login\n- កែលម្អ UI ស្អាត រលូន និងដំណើរការលឿន",
+  "version": "3.1.9",
+  "release_date": "2026-10-24",
+  "download_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.1.9/Trabekprey_SRT_Update.zip",
+  "installer_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.1.9/Trabekprey_SRT_v3.1.9_Setup.exe",
+  "sha256": "78e96630644ff21d4105787631f61e3a7c4546370e8687b405d9034a769c2d14",
+  "installer_sha256": "834e107de4159c4c8633e7b5d2a43df55cfa4a5449b97dcbad0add819282bbab",
+  "file_size": 8679192,
+  "installer_size": 1857347769,
+  "title": "Trabekprey SRT v3.1.9",
+  "changelog": "- មុខងារ Auto Update ផ្ទាល់ក្នុង Tools (In-App Hot-Swap Update ដូច VidBee / Hongguo DL)\n- ទាញយក Patch តែ ~18 MB ប៉ុណ្ណោះ មិនចាំបាច់ Download File 1.7GB ហើយ Install ពីដើមឡើងវិញឡើយ\n- បង្ហាញ Progress bar ទាញយក, Speed MB/s និង Relaunch ស្វ័យប្រវត្តិ\n- ជួសជុល និងកែលម្អ Demucs Audio Separation & Edge TTS Dual Voice\n- ប្រព័ន្ធ Fallback ទាញយក Full Setup ប្រសិនបើត្រូវការ",
   "mandatory": false
 }
