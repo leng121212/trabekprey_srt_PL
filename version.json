@@ -1,10 +1,10 @@
 {
-  "version": "3.1.6",
+  "version": "3.1.7",
   "release_date": "2026-10-23",
-  "download_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.1.6/Trabekprey_SRT_v3.1.6_Setup.exe",
-  "sha256": "ec190f1a268e46f058ef529f1cda4d0852a8fe5756db351ca1a94ee3e3f0d399",
-  "file_size": 1855836464,
-  "title": "Trabekprey SRT v3.1.6",
+  "download_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.1.7/Trabekprey_SRT_v3.1.7_Setup.exe",
+  "sha256": "732143f00725a1b0fc0ab8f07d0fb57a15714516859e4b437fb6f177a50d40d9",
+  "file_size": 1860235175,
+  "title": "Trabekprey SRT v3.1.7",
   "changelog": "- មុខងារ Auto Update ស្វ័យប្រវត្តិ (ចុច Update ពីលើ Bar ផ្ទាល់)\n- បញ្ចូល Model Separate សម្លេង (Demucs AI), VAD, និង EasyOCR\n- បន្ថែមប៊ូតុងទាញយក Model Transcript/Translate (Whisper Large-v3 Turbo) នៅក្នុង Settings សម្រាប់អ្នកចង់ប្រើ Offline Local\n- ទំហំ Installer តូចល្មម (1.72 GB) ក្រោម 2GB ងាយស្រួលទាញយក\n- សម្លេង Clone ដើម ៨ ជាប់ក្នុង Tools ស្រាប់\n- ប្រព័ន្ធ License កម្រិតខ្ពស់ជាមួយ Gmail Login\n- កែលម្អ UI ស្អាត រលូន និងដំណើរការលឿន",
   "mandatory": false
 }
