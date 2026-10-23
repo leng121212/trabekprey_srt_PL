@@ -47,5 +47,5 @@
 - **Version**: `v3.1.6`
 - **Release Date**: 2026-10-23
 - **File Name**: `Trabekprey_SRT_v3.1.6_Setup.exe`
-- **SHA-256**: `0d339ce4d2c02b4bf55708b93a0be83ec5459715a6e4de4fbafc206008cbd4b6`
+- **SHA-256**: `ec190f1a268e46f058ef529f1cda4d0852a8fe5756db351ca1a94ee3e3f0d399`
 - **Auto-Update Feed**: `https://raw.githubusercontent.com/leng121212/trabekprey_srt_PL/main/version.json`
