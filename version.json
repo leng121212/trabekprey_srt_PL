@@ -1,0 +1,10 @@
+{
+  "version": "3.1.6",
+  "release_date": "2026-10-23",
+  "download_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.1.6/Trabekprey_SRT_v3.1.6_Setup.exe",
+  "sha256": "8917ee77fe8aa9bbf12cd2a45f2ddd07c798ac57a764431355128714d622befc",
+  "file_size": 4174628338,
+  "title": "Trabekprey SRT v3.1.6",
+  "changelog": "- មុខងារ Auto Update ស្វ័យប្រវត្តិ (ចុច Update ពីលើ Bar ផ្ទាល់)\n- បញ្ចូល Model ទាំងអស់ (Whisper Large-v3 Turbo, VAD, Demucs Separate, EasyOCR)\n- សម្លេង Clone ដើម ៨ ជាប់ក្នុង Tools ស្រាប់\n- ប្រព័ន្ធ License កម្រិតខ្ពស់ជាមួយ Gmail Login\n- កែលម្អ UI ស្អាត រលូន និងដំណើរការលឿន",
+  "mandatory": false
+}
