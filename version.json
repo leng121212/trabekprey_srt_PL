@@ -1,13 +1,13 @@
 {
-  "version": "3.2.2",
+  "version": "3.2.3",
   "release_date": "2026-10-24",
-  "patch_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.2/Trabekprey_SRT_Update.zip",
-  "download_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.2/Trabekprey_SRT_v3.2.2_Setup.exe",
-  "installer_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.2/Trabekprey_SRT_v3.2.2_Setup.exe",
-  "sha256": "3df6cb0fdde2cc0a914f106896dbe0530e271111a5ce06f755f6ce546dd7a659",
-  "installer_sha256": "a3eae0cf0f747b4c2cb9d904f6019df3b9b12e6a9ca925b11872425cbe66cf4d",
-  "file_size": 12840810,
-  "installer_size": 1915848466,
-  "changelog": "- ជួសជុលបញ្ហា Blur លើវីដេអូ: ទីតាំង Blur ក្នុង Export ដើរត្រូវតាម Tools Preview 100% មិនលោតខុសទីតាំងទៀតឡើយ\n- ជួសជុលបញ្ហា Gen Voice Timeline: សំឡេងដើរត្រូវតាម Timeline 100% មិនលោតទៅ 00:00 ទៀតឡើយ\n- ជួសជុលបញ្ហា Export វីដេអូ [object Object] និងភ្ជាប់ FFmpeg ដោយស្វ័យប្រវត្តិ\n- ជួសជុលបញ្ហា Separate សំឡេង Demucs ដោយដាក់បញ្ចូល torchaudio models ពេញលេញ\n- Past Script ឆ្លាតវៃ: ភ្ជាប់ Timeline តាម SRT Timestamp ភ្លាមៗ\n- ប្រព័ន្ធ Auto Update Hot-Swap ក្នុងកម្មវិធី (Patch ~15 MB)",
+  "patch_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.3/Trabekprey_SRT_Update.zip",
+  "download_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.3/Trabekprey_SRT_v3.2.3_Setup.exe",
+  "installer_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.3/Trabekprey_SRT_v3.2.3_Setup.exe",
+  "sha256": "c0ad89f8571afcce681286811dde5c1b15ccdfb21716ca131a6a4476c735fa65",
+  "installer_sha256": "4df465dbec60f9712b9913a6a9587b8138a9faf1b2fbed991ecc223614c85013",
+  "file_size": 12842559,
+  "installer_size": 1915855901,
+  "changelog": "- បន្ថែម Volume Slider សម្រាប់ Voice Generate (100%) និង Separate / BGM (70%) ក្នុង Pop-up Separate\n- ជួសជុលបញ្ហា Separate រួចមិនឮសំឡេង: Boost/Normalize កម្រិតភ្លេង BGM ឱ្យឮច្បាស់ពេញលេញ និងលាយសំឡេង TTS + BGM ព្រមគ្នា\n- បង្កើនល្បឿន Demucs Separation លឿនជាងមុន 3x-4x ដង\n- ជួសជុល Blur លើវីដេអូ: ទីតាំង Blur ក្នុង Export ត្រូវតាម Preview 100%\n- ជួសជុលសំឡេង Gen Voice ដើរត្រូវតាម Timeline 100%\n- ប្រព័ន្ធ Auto Update Hot-Swap ក្នុងកម្មវិធី (Patch ~12 MB)",
   "mandatory": false
 }
