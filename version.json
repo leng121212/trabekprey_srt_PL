@@ -1,13 +1,13 @@
 {
-  "version": "3.2.0",
+  "version": "3.2.1",
   "release_date": "2026-10-24",
-  "patch_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.0/Trabekprey_SRT_Update.zip",
-  "download_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.0/Trabekprey_SRT_v3.2.0_Setup.exe",
-  "installer_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.0/Trabekprey_SRT_v3.2.0_Setup.exe",
-  "sha256": "4ecb788e1234b46aa1e375717774d061905cde2fd4d38ac436c8775a1ddb5ff8",
-  "installer_sha256": "2fdd556487731d219292a60e98b1b9d6239030551a0610d778a192bd6d86b254",
-  "file_size": 12839230,
-  "installer_size": 1888546430,
+  "patch_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.1/Trabekprey_SRT_Update.zip",
+  "download_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.1/Trabekprey_SRT_v3.2.1_Setup.exe",
+  "installer_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.1/Trabekprey_SRT_v3.2.1_Setup.exe",
+  "sha256": "4bf597e1dcb905b5e96dd10e5c05d8bf835c899dba009c39567de660955d5708",
+  "installer_sha256": "02dddbab8321fbdfd6aaa1753735107d4c6adbf4206c3b322a3940338976f0f7",
+  "file_size": 12839288,
+  "installer_size": 1888593283,
   "changelog": "- ជួសជុលបញ្ហា Gen Voice Timeline: សំឡេងដើរត្រូវតាម Timeline 100% មិនលោតទៅ 00:00 ទៀតឡើយ\n- ជួសជុលបញ្ហា Export វីដេអូ [object Object] និងភ្ជាប់ FFmpeg ដោយស្វ័យប្រវត្តិ\n- ជួសជុលបញ្ហា Separate សំឡេង Demucs ដោយដាក់បញ្ចូល torchaudio models ពេញលេញ\n- Past Script ឆ្លាតវៃ: ភ្ជាប់ Timeline តាម SRT Timestamp ភ្លាមៗ\n- ប្រព័ន្ធ Auto Update Hot-Swap ក្នុងកម្មវិធី (Patch ~12 MB)",
   "mandatory": false
 }
