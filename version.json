@@ -1,13 +1,13 @@
 {
-  "version": "3.2.4",
+  "version": "3.2.5",
   "release_date": "2026-10-24",
-  "patch_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.4/Trabekprey_SRT_Update.zip",
-  "download_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.4/Trabekprey_SRT_v3.2.4_Setup.exe",
-  "installer_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.4/Trabekprey_SRT_v3.2.4_Setup.exe",
-  "sha256": "7dda5df927b3a6ca8253791edb2afdb58fd68dd62beb2ddba1983264889ab638",
-  "installer_sha256": "adef45c0ae92a7058dd03178b25813aeca22715e3da022b237ac7a8096b45dcb",
-  "file_size": 8801645,
-  "installer_size": 1915855916,
-  "changelog": "- ជួសជុលការចាក់សំឡេងតួអង្គទាំង 8 ក្នុង Clone Voice Modal អោយដើរបាន 100% (លែងលោត 'មិនអាចចាក់ឯកសារសំឡេងនេះបានទេ')\n- បន្ថែមរបារកែសម្រួល Volume ដាច់ដោយឡែកក្នុង Pop-up Separate សម្រាប់ Voice Generate (100%) និង Separate BGM (70%)\n- បង្កើនល្បឿន Demucs Separate លឿនជាងមុន 3x-4x និង Auto Boost សំឡេង BGM អោយលឺច្បាស់ល្អ\n- ជួសជុលបញ្ហា Blur លើវីដេអូ: ទីតាំង Blur ក្នុង Export ដើរត្រូវតាម Tools Preview 100%\n- ជួសជុលបញ្ហា Gen Voice Timeline: សំឡេងដើរត្រូវតាម Timeline 100%",
+  "patch_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.5/Trabekprey_SRT_Update.zip",
+  "download_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.5/Trabekprey_SRT_v3.2.5_Setup.exe",
+  "installer_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.5/Trabekprey_SRT_v3.2.5_Setup.exe",
+  "sha256": "7bfa08afff63ecc7070270cf631b93592ee69effdd4b98eb858fb9435d70189d",
+  "installer_sha256": "9b4b0254e7372f98413a88a6ffa72b7ef701ac32f95d5dd01bd24469e8f3e204",
+  "file_size": 8800289,
+  "installer_size": 1910239826,
+  "changelog": "- ជួសជុលបញ្ហាបើកមិនចេញលើ Version 3.2.4: កម្មវិធីដំណើរការយ៉ាងរលូន ១០០% ទាំងការ Auto-Update និងការដំឡើងថ្មី\n- ជួសជុលការចាក់សំឡេងទាំង 8 តួអង្គក្នុង Clone Voice Modal អោយដើរបាន 100% (លែងលោត 'មិនអាចចាក់ឯកសារសំឡេងនេះបានទេ')\n- បន្ថែមរបារកែសម្រួល Volume ដាច់ដោយឡែកក្នុង Pop-up Separate សម្រាប់ Voice Generate (100%) និង Separate BGM (70%)\n- បង្កើនល្បឿន Demucs Separate លឿនជាងមុន 3x-4x និង Auto Boost សំឡេង BGM អោយលឺច្បាស់ល្អ\n- ជួសជុលបញ្ហា Blur លើវីដេអូ និង Timeline Audio Sync",
   "mandatory": false
 }
