@@ -1,14 +1,13 @@
 {
-  "version": "3.1.9",
+  "version": "3.2.0",
   "release_date": "2026-10-24",
-  "patch_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.1.9/Trabekprey_SRT_Update.zip",
-  "download_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.1.9/Trabekprey_SRT_v3.1.9_Setup.exe",
-  "installer_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.1.9/Trabekprey_SRT_v3.1.9_Setup.exe",
-  "sha256": "a866c58038761df96291d401f45fa9c42ab1c9256c2d8862b68be210b7036cd6",
-  "installer_sha256": "70a669c24415c05762687bd430a09f0294d19cf1b49d3d1cdcf2126e59da1069",
-  "file_size": 12723020,
-  "installer_size": 1861382504,
-  "title": "Trabekprey SRT v3.1.9",
-  "changelog": "- មុខងារ Auto Update ផ្ទាល់ក្នុង Tools (In-App Hot-Swap Update ដូច VidBee / Hongguo DL)\n- ទាញយក Patch តែ ~8.3 MB ប៉ុណ្ណោះ មិនចាំបាច់ Download File 1.7GB ហើយ Install ពីដើមឡើងវិញឡើយ\n- បង្ហាញ Progress bar ទាញយក, Speed MB/s និង Relaunch ស្វ័យប្រវត្តិ\n- ជួសជុល និងកែលម្អ Demucs Audio Separation & Edge TTS Dual Voice\n- ប្រព័ន្ធ Fallback ទាញយក Full Setup ប្រសិនបើត្រូវការ",
+  "patch_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.0/Trabekprey_SRT_Update.zip",
+  "download_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.0/Trabekprey_SRT_v3.2.0_Setup.exe",
+  "installer_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.0/Trabekprey_SRT_v3.2.0_Setup.exe",
+  "sha256": "4ecb788e1234b46aa1e375717774d061905cde2fd4d38ac436c8775a1ddb5ff8",
+  "installer_sha256": "2fdd556487731d219292a60e98b1b9d6239030551a0610d778a192bd6d86b254",
+  "file_size": 12839230,
+  "installer_size": 1888546430,
+  "changelog": "- ជួសជុលបញ្ហា Gen Voice Timeline: សំឡេងដើរត្រូវតាម Timeline 100% មិនលោតទៅ 00:00 ទៀតឡើយ\n- ជួសជុលបញ្ហា Export វីដេអូ [object Object] និងភ្ជាប់ FFmpeg ដោយស្វ័យប្រវត្តិ\n- ជួសជុលបញ្ហា Separate សំឡេង Demucs ដោយដាក់បញ្ចូល torchaudio models ពេញលេញ\n- Past Script ឆ្លាតវៃ: ភ្ជាប់ Timeline តាម SRT Timestamp ភ្លាមៗ\n- ប្រព័ន្ធ Auto Update Hot-Swap ក្នុងកម្មវិធី (Patch ~12 MB)",
   "mandatory": false
 }
