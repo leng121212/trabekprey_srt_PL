@@ -1,13 +1,13 @@
 {
-  "version": "3.2.6",
-  "release_date": "2026-10-24",
-  "patch_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.6/Trabekprey_SRT_Update.zip",
-  "download_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.6/Trabekprey_SRT_v3.2.6_Setup.exe",
-  "installer_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.6/Trabekprey_SRT_v3.2.6_Setup.exe",
-  "sha256": "efec5ad777a5a10d4fb97ac2d43052ec049b84a566c780f4a34e0cc26fc1a029",
-  "installer_sha256": "b616650b6ad66926c413724003a82c6616aca94f891c7da707c5a303aeef5652",
-  "file_size": 12844015,
-  "installer_size": 1915904393,
-  "changelog": "- ជួសជុលបញ្ហា Hmmm... can't reach this page / localhost refused to connect លើ Version 3.2.5: កម្មវិធីដំណើរការយ៉ាងរលូន ១០០% ទាំងស្រុង\n- ជួសជុលការចាក់សំឡេងទាំង 8 តួអង្គក្នុង Clone Voice Modal អោយដើរបាន 100% (លែងលោត 'មិនអាចចាក់ឯកសារសំឡេងនេះបានទេ')\n- បន្ថែមរបារកែសម្រួល Volume ដាច់ដោយឡែកក្នុង Pop-up Separate សម្រាប់ Voice Generate (100%) និង Separate BGM (70%)\n- បង្កើនល្បឿន Demucs Separate លឿនជាងមុន 3x-4x និង Auto Boost សំឡេង BGM អោយលឺច្បាស់ល្អ\n- ជួសជុលបញ្ហា Blur លើវីដេអូ និង Timeline Audio Sync",
+  "version": "3.2.7",
+  "release_date": "2026-10-26",
+  "patch_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.7/Trabekprey_SRT_Update.zip",
+  "download_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.7/Trabekprey_SRT_v3.2.7_Setup.exe",
+  "installer_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.7/Trabekprey_SRT_v3.2.7_Setup.exe",
+  "sha256": "526149831043979fc77fd032967bd460ecb78691141b64ad31dc95c05bbf463d",
+  "installer_sha256": "ce313987896691d2fd095c5bfd3bcac7ca77a7c4b54a035ce5e1af1cea86caa1",
+  "file_size": 12847680,
+  "installer_size": 1915917063,
+  "changelog": "- ជួសជុលបញ្ហា Video Preview មិនលោតបង្ហាញពេលដាក់វីដេអូចូល: ដំណើរការ Preview និង Render រូបភាពវីដេអូភ្លាមៗ ១០០% ទាំងស្រុង\n- គាំទ្ររាល់ទម្រង់វីដេអូទាំងអស់ (MP4, MKV, AVI, MOV, WEBM, TS) ជាមួយ auto-prepare និង Range streaming រលូនឥតទាក់\n- ជួសជុលការចាក់សំឡេងទាំង 8 តួអង្គក្នុង Clone Voice Modal អោយដើរបាន 100% (លែងលោត 'មិនអាចចាក់ឯកសារសំឡេងនេះបានទេ')\n- បន្ថែមរបារកែសម្រួល Volume ដាច់ដោយឡែកក្នុង Pop-up Separate សម្រាប់ Voice Generate (100%) និង Separate BGM (70%)\n- Auto Update បានភ្លាមៗ",
   "mandatory": false
 }
