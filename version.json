@@ -1,13 +1,13 @@
 {
-  "version": "3.2.7",
-  "release_date": "2026-10-26",
-  "patch_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.7/Trabekprey_SRT_Update.zip",
-  "download_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.7/Trabekprey_SRT_v3.2.7_Setup.exe",
-  "installer_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.7/Trabekprey_SRT_v3.2.7_Setup.exe",
-  "sha256": "526149831043979fc77fd032967bd460ecb78691141b64ad31dc95c05bbf463d",
-  "installer_sha256": "ce313987896691d2fd095c5bfd3bcac7ca77a7c4b54a035ce5e1af1cea86caa1",
-  "file_size": 12847680,
-  "installer_size": 1915917063,
-  "changelog": "- ជួសជុលបញ្ហា Video Preview មិនលោតបង្ហាញពេលដាក់វីដេអូចូល: ដំណើរការ Preview និង Render រូបភាពវីដេអូភ្លាមៗ ១០០% ទាំងស្រុង\n- គាំទ្ររាល់ទម្រង់វីដេអូទាំងអស់ (MP4, MKV, AVI, MOV, WEBM, TS) ជាមួយ auto-prepare និង Range streaming រលូនឥតទាក់\n- ជួសជុលការចាក់សំឡេងទាំង 8 តួអង្គក្នុង Clone Voice Modal អោយដើរបាន 100% (លែងលោត 'មិនអាចចាក់ឯកសារសំឡេងនេះបានទេ')\n- បន្ថែមរបារកែសម្រួល Volume ដាច់ដោយឡែកក្នុង Pop-up Separate សម្រាប់ Voice Generate (100%) និង Separate BGM (70%)\n- Auto Update បានភ្លាមៗ",
+  "version": "3.2.8",
+  "release_date": "2026-10-28",
+  "patch_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.8/Trabekprey_SRT_Update.zip",
+  "download_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.8/Trabekprey_SRT_v3.2.8_Setup.exe",
+  "installer_url": "https://github.com/leng121212/trabekprey_srt_PL/releases/download/v3.2.8/Trabekprey_SRT_v3.2.8_Setup.exe",
+  "sha256": "6879676ed108aaf00ad2ca62ce6506e5b1b43961edc5a753fa3dae2e9bae9e87",
+  "installer_sha256": "4bf59949ef00a1056d47bd0d77269d34df52e8b1868b39af9f5ccc120fc1d6ff",
+  "file_size": 12850243,
+  "installer_size": 1915921067,
+  "changelog": "- បន្ថែមប៊ូតុង 'Past' នៅខាងស្ដាំប៊ូតុង Eye ក្នុង API Settings (Clone Voice Modal) សម្រាប់ Past API Key ពី Clipboard ចូលបានភ្លាមៗ ១០០%\n- ជួសជុលបញ្ហា Video Preview មិនលោតបង្ហាញរូបភាពពេល User ដាក់វីដេអូចូល: លុបបំបាត់បញ្ហា CORS និង Black Screen ដំណើរការ Render រូបភាពវីដេអូ និង Timeline ភ្លាមៗ ១០០%\n- ជួសជុលកន្លែង Past Script ក្រោយពេលបកប្រែរួច: ដំណើរការ Past ពី Clipboard គ្រប់កាលៈទេសៈដោយគ្មាន Error ព្រមទាំងគាំទ្រការ Import ឯកសារ SRT/TXT ពីកុំព្យូទ័របានយ៉ាងរលូន\n- អនុញ្ញាតឱ្យប្រើ Mouse ស្ដាំ (Right-Click Context Menu) Copy/Paste លើរាល់ប្រអប់ Input និង Textarea ទាំងអស់ក្នុងកម្មវិធី\n- Auto Update បានភ្លាមៗ",
   "mandatory": false
 }
